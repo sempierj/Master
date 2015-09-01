@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MyMod",
+  "name": "Lasers and Coils",
+  "description": "Example placeholder mod.",
+  "version": "$version",
+  "mcversion": "$mcversion",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Josh Sempier"],
+  "credits": "ME!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_MinecraftForge]
+}
+]
